@@ -15,7 +15,7 @@
 <h2>Connect with me</h3>
 <p><a href="https://www.linkedin.com/in/josephpopoola6/"><img src="https://img.shields.io/badge/-Joseph%20Popoola%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/josephpopoola6/"><img src="https://img.shields.io/badge/-JosephPopoola-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:eniolacodes1@gmail.com"><img src="https://img.shields.io/badge/-Eniola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:archjo6@gmail.com" alt="Gmail Badge"></a></p>
+  <a href="mailto:archjo6@gmail.com"><img src="https://img.shields.io/badge/JosephPopoola%20Codes-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:archjo6@gmail.com" alt="Gmail Badge"></a></p>
 
 <h2> My Tools </h2>
 <p align="left">
