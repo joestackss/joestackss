@@ -41,8 +41,6 @@
 <h2> My Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=olamideare" alt="Eniola-Codes" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eniola-Codes&show_icons=true&hide_border=true" alt="Stats" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=olamideare&show_icons=true&hide_border=true" alt="Stats" />
 
 <p> Thanks for visiting my Github Profile❤️ </p>
