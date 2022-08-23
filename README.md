@@ -6,8 +6,8 @@
 <ul>
   <li>🦾 I am a Top Rated Freelancer on Upwork. </li>
   <li>✨ Turning problems into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>Javascript, React.js, Flutter </strong>.</li>
-  <li>🔭 I’m continously learning <strong>Javascript, Reactjs & Flutter</strong>. </li>
+  <li>👨‍💻 I work with HTML, CSS, <strong>Javascript & React.js </strong>.</li>
+  <li>🔭 I’m continously learning <strong>Javascript & Reactjs</strong>. </li>
   <li>💬 Send me a message about anything <strong>Web Development & Mobile App Development</strong>.</li>
 <li>🎉 Fun Fact : I share Freelancing & Tech content on Twitter & Linkedin</li>
 </ul>
