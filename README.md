@@ -1,4 +1,4 @@
-<h2>Hello there👋❤️, I'm Joseph Popoola <span>(Joseph Top Rated)</span></h2>
+<h2>Hello there👋❤️, I'm Joseph Popoola <span>(JosephStacks)</span></h2>
 <p>I am a Frontend Web Developer and a Mobile App Developer</p>
 
 <h2>⚡️ About Me</h2>
@@ -7,7 +7,7 @@
   <li>🦾 I am a Top Rated Freelancer on Upwork. </li>
   <li>✨ Turning problems into real life products 24/7. </li>
   <li>👨‍💻 I work with HTML, CSS, <strong>Javascript & React.js </strong>.</li>
-  <li>🔭 I’m continously learning <strong>Javascript & Reactjs</strong>. </li>
+  <li>🔭 I’m continously learning <strong>Javascript & React.js</strong>. </li>
   <li>💬 Send me a message about anything <strong>Web Development & Mobile App Development</strong>.</li>
 <li>🎉 Fun Fact : I share Freelancing & Tech content on Twitter & Linkedin</li>
 </ul>
