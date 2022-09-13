@@ -1,5 +1,5 @@
 <h2>Hello there👋❤️, I'm Joseph Popoola <span>(JoeStacks)</span></h2>
-<p>I am a Frontend Web Developer and a Mobile App Developer</p>
+<p>I am a Frontend Web Developer, React Developer and a Mobile App Developer</p>
 
 <h2>⚡️ About Me</h2>
 
