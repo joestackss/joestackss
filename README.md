@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/josephpopoola6/"><img src="https://img.shields.io/badge/-Joseph%20Popoola%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
+<p><a href="https://www.linkedin.com/in/josephpopoola6/"><img src="https://img.shields.io/badge/-Joseph%20Popoola%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/josephpopoola6" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/joestackss/"><img src="https://img.shields.io/badge/-JosephPopoola-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="mailto:archjo6@gmail.com"><img src="https://img.shields.io/badge/JosephPopoola%20-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:archjo6@gmail.com" alt="Gmail Badge"></a></p>
 
@@ -37,10 +37,10 @@
         
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eniola-Codes&show_icons=true&locale=en&layout=compact" alt="Eniola-Codes" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joe-Stackss&show_icons=true&locale=en&layout=compact" alt="Joe-Stackss" /></p> -->
 <h2> My Stats </h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=olamideare" alt="Eniola-Codes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=joestackss" alt="Joe-Stackss" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=olamideare&show_icons=true&hide_border=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=joestackss&show_icons=true&hide_border=true" alt="Stats" />
 
 <p> Thanks for visiting my Github Profile❤️ </p>
