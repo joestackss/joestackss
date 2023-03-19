@@ -1,5 +1,5 @@
 <h2>Hello there👋❤️, I'm Joseph Popoola <span>(JoeStacks)</span></h2>
-<p>I am a Full stack Developer, Next.Js and React Developer and a Mobile App Developer</p>
+<p>I am a Full Stack Developer, NextJS, ReactJS and also a Mobile App Developer</p>
 
 <h2>⚡️ About Me</h2>
 
