@@ -1,5 +1,5 @@
 <h2>Hello there👋❤️, I'm Joseph Popoola <span>(JoeStacks)</span></h2>
-<p>I am a Full Stack Engineer, NextJS, ReactJS and also a Mobile App Developer</p>
+<p>I am a Full Stack Engineer, NextJS, ReactJS and also a SwiftUI, Expo/React Native Developer</p>
 
 <h2>⚡️ About Me</h2>
 
@@ -23,21 +23,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/>
-   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/> -->
- <!—- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/> —->
-   <!—- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="JQuery" height="40" width="40"/> —->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ait="React" height="40" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Netlify" height="40" width="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
-        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>    
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joe-Stackss&show_icons=true&locale=en&layout=compact" alt="Joe-Stackss" /></p> -->
 <h2> My Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=joestackss" alt="Joe-Stackss" /></p>
 
