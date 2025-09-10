@@ -1,5 +1,5 @@
 <h2>Hello there👋❤️, I'm Joseph Popoola <span>(JoeStacks)</span></h2>
-<p>I am a Full Stack Engineer, NextJS, ReactJS and also a SwiftUI, Expo/React Native Developer</p>
+<p>I am a Full Stack Engineer, NextJS, React.JS, Supabase and also a SwiftUI, Expo/React Native Developer</p>
 
 <h2>⚡️ About Me</h2>
 
