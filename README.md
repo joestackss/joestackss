@@ -1,15 +1,14 @@
-<h2>Hello there👋❤️, I'm Joseph Popoola <span>(JoeStacks)</span></h2>
+<h2>Hello there, I'm Joseph Popoola <span>(JoeStacks)</span></h2>
 <p>I am a Full Stack Engineer, NextJS, React.JS, Supabase and also a SwiftUI, Expo/React Native Developer</p>
 
-<h2>⚡️ About Me</h2>
+<h2>About Me</h2>
 
 <ul>
-  <li>🦾 I am a Top Rated Freelancer on Upwork. </li>
-  <li>✨ Turning problems into real life products 24/7. </li>
-  <li>👨‍💻 I work with <strong>Javascript, React.JS, React Native, Next.JS, SwiftUI, Expo, Node.Js </strong>.</li>
-  <li>🔭 I’m continously learning <strong> SaaS, Javascript & it's frameworks.</strong>. </li>
-  <li>💬 Send me a message about anything <strong>Web Development & Mobile App Development</strong>.</li>
-<li>🎉 Fun Fact : I share Freelancing & Tech content on Twitter & Linkedin</li>
+  <li>I am a Top Rated Freelancer on Upwork. </li>
+  <li>Turning problems into real life products 24/7. </li>
+  <li>I work with <strong>Javascript, React.JS, React Native, Next.JS, SwiftUI, Expo, Node.Js </strong>.</li>
+  <li>I’m continously learning <strong> SaaS, Javascript & it's frameworks.</strong>. </li>
+  <li>Send me a message about anything <strong>Web Development & Mobile App Development</strong>.</li>
 </ul>
 
 <h2>Connect with me</h3>
