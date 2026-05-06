@@ -1,27 +1,27 @@
 <h1>Joseph Popoola</h1>
-<p><strong>Founder & CTO, RaverPay</strong></p>
+<p><strong>Founder & CTO, Raverpay</strong></p>
 
 <p>
 I build financial infrastructure and scalable software products for emerging markets.
-Currently leading engineering at <strong>RaverPay</strong>, focused on payments, wallets, and developer-first APIs across Africa.
+Currently leading engineering at <strong>Raverpay</strong>, focused on payments, wallets, and developer-first APIs across Africa.
 </p>
 
 ---
 
 <h2>What I'm Building</h2>
 <ul>
-  <li>⚡ RaverPay — Payment infrastructure for African businesses</li>
-  <li>💳 Wallet systems (USDC, fiat rails, escrow systems)</li>
-  <li>🔌 APIs for developers to move money seamlessly</li>
+  <li>Raverpay — Payment infrastructure for African businesses</li>
+  <li>Wallet systems (USDC, fiat rails, escrow systems)</li>
+  <li>APIs for developers to move money seamlessly</li>
 </ul>
 
 ---
 
 <h2>Experience</h2>
 <ul>
-  <li>Founder & CTO @ <strong>RaverPay</strong></li>
+  <li>Founder & CTO @ <strong>Raverpay</strong></li>
   <li>Top Rated Freelancer on Upwork (global clients)</li>
-  <li>5+ years building and shipping production-grade applications</li>
+  <li>6+ years building and shipping production-grade applications</li>
 </ul>
 
 ---
