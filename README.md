@@ -44,7 +44,7 @@ TypeScript • React • Next.js • React Native • Node.js • Supabase • P
 
 <h2>Connect</h2>
 <p>
-<a href="https://www.linkedin.com/in/josephpopoola6/">LinkedIn</a> •
 <a href="https://twitter.com/joestackss/">Twitter</a> •
-<a href="mailto:archjo6@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/joestackss">LinkedIn</a> •
+<a href="mailto:codeswithjoseph@gmail.com">Email</a>
 </p>
