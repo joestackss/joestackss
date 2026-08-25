@@ -1,5 +1,5 @@
 <h1>Joseph Popoola</h1>
-<p><strong>Founder & CTO, Raverpay</strong></p>
+<p><strong>Building Raverpay</strong></p>
 
 <p>
 I build financial infrastructure and scalable software products for emerging markets.
@@ -19,7 +19,7 @@ Currently leading engineering at <strong>Raverpay</strong>, focused on payments,
 
 <h2>Experience</h2>
 <ul>
-  <li>Founder & CTO @ <strong>Raverpay</strong></li>
+  <li>Building <strong>Raverpay</strong></li>
   <li>Top Rated Freelancer on Upwork (global clients)</li>
   <li>6+ years building and shipping production-grade applications</li>
 </ul>
